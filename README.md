@@ -2,10 +2,16 @@
 
  <div>
    <a href="https://github.com/Barbiero-Ana">
+<p align="center">
+  <img src="https://i.pinimg.com/originals/42/60/a2/4260a201985b16e67f3b639e7802611b.jpg" width="900" height ="200"/>
+</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Desenvolvedora+Front-End;Artista+Autonoma;Criando+soluções+sustentáveis;Estudante+de+Ads)](https://git.io/typing-svg)
+<p align="center"
+ 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Desenvolvedora+Front-End;Artista;Criando+soluções+sustentáveis;Estudante+de+Ads;Web+Design;Apaixonada+por+tecnologia)](https://git.io/typing-svg)
+</p>
 
-    
+
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Barbiero-Ana&show_icons=true&theme=synthwave"/>
 
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Barbiero-Ana&layout=compact&langs_count=6&theme=synthwave"/>
@@ -20,12 +26,25 @@
 
  ### 🚀 Minha Jornada até Aqui:
 
-- 📚 2024 - Cursando Análise e Desenvolvimento de Sistemas na UNIVAG
+- 📚 2024 - Cursando Análise e Desenvolvimento de Sistemas na UNIVAG 1/5
 - 🌍 2022 - Intercâmbio na Califórnia, concluindo o ensino médio
 - 💼 2022 - Suporte interno na Uber EATS, San Mateo, Califórnia
 - 🎨 2021 - Início da carreira como artista digital autônoma
+
+
+### ❓FAQ
+- **Como posso entrar em contato com você?**  
+  Me mande um e-mail ou mensagem pelo LinkedIn (links abaixo!).
+  
+- **Você está aberto a colaborações?**  
+  Sim, sempre! Estou procurando colaborar em novos projetos.
+
+- **Quais ferramentas você mais usa?**  
+  Python, Figma, Js, HTML e CSS.
+
 <br>
  
+
 ### ✨ Para mais informações siga-me nas redes sociais ✨ ##
  
 <div> 
