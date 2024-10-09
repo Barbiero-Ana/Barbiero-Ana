@@ -2,6 +2,9 @@
 
  <div>
    <a href="https://github.com/Barbiero-Ana">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Desenvolvedora+Front-End;Artista+Autonoma;Criando+soluções+sustentáveis;Estudante+de+Ads)](https://git.io/typing-svg)
+
     
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Barbiero-Ana&show_icons=true&theme=synthwave"/>
 
@@ -14,8 +17,13 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Figma" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
    <img align="center" alt="Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg">
-</div>
- 
+
+ ### 🚀 Minha Jornada até Aqui:
+
+- 📚 2024 - Cursando Análise e Desenvolvimento de Sistemas na UNIVAG
+- 🌍 2022 - Intercâmbio na Califórnia, concluindo o ensino médio
+- 💼 2022 - Suporte interno na Uber EATS, San Mateo, Califórnia
+- 🎨 2021 - Início da carreira como artista digital autônoma
 <br>
  
 ### ✨ Para mais informações siga-me nas redes sociais ✨ ##
@@ -26,5 +34,6 @@
   <a href="https://www.linkedin.com/in/anabarbiero/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=seu-usuario&label=Profile%20views&color=0e75b6&style=flat" alt="seu-usuario" /> </p>
+
 
 </div>
