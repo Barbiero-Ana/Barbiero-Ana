@@ -55,4 +55,61 @@
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=seu-usuario&label=Profile%20views&color=0e75b6&style=flat" alt="seu-usuario" /> </p>
 
 
+## English Version ##
+
+
+## ✨ Welcome to My Profile ✨ ##
+
+<div>
+   <a href="https://github.com/Barbiero-Ana">
+<p align="center">
+  <img src="https://i.pinimg.com/originals/42/60/a2/4260a201985b16e67f3b639e7802611b.jpg" width="900" height ="200"/>
+</p>
+
+<p align='center'>
+ 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Front-End+Developer;Artist;Creating+sustainable+solutions;ADS+Student;Web+Designer;Passionate+about+technology)](https://git.io/typing-svg)
+
+</p>
+
+
+
+
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Barbiero-Ana&show_icons=true&theme=synthwave"/>
+
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Barbiero-Ana&layout=compact&langs_count=6&theme=synthwave"/>
+</div>
+  
+
+ ### 🚀 My Journey So Far:
+
+- 📚 2024 - Studying Systems Analysis and Development at UNIVAG 1/5
+- 🌍 2022 - Exchange program in California, completing high school
+- 💼 2022 - Internal support at Uber EATS, San Mateo, California
+- 🎨 2021 - Started my career as a freelance digital artist
+
+### ❓FAQ
+- **How can I contact you?**  
+  Send me an email or message via LinkedIn (links below!).
+  
+- **Are you open to collaborations?**  
+  Yes, always! I'm looking to collaborate on new projects.
+
+- **What tools do you use the most?**  
+  Python, Figma, JS, HTML, and CSS.
+
+<br>
+
+### ✨ For more information, follow me on social media ✨ ##
+ 
+<div> 
+  <a href="https://instagram.com/barbiero_ana" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="mailto:anacarolinabarbiero@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/anabarbiero/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" /> </p>
+
+</div>
+
+
 </div>
