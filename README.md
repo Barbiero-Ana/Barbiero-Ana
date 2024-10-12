@@ -8,7 +8,7 @@
 
 <p align="center"
  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Desenvolvedora+Front-End;Artista;Criando+soluções+sustentáveis;Estudante+de+Ads;Web+Design;Apaixonada+por+tecnologia)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Desenvolvedora+Front-End;Artista;Criando+soluções+inovadoras;Estudante+de+Ads;Web+Design;Apaixonada+por+tecnologia)](https://git.io/typing-svg)
 </p>
 
 
@@ -68,7 +68,7 @@
 
 <p align='center'>
  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Front-End+Developer;Artist;Creating+sustainable+solutions;ADS+Student;Web+Designer;Passionate+about+technology)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Front-End+Developer;Artist;Creating+innovative+solutions;ADS+Student;Web+Designer;Passionate+about+technology)](https://git.io/typing-svg)
 
 </p>
 
