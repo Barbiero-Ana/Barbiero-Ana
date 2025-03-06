@@ -6,12 +6,6 @@
   <img src="https://i.pinimg.com/originals/42/60/a2/4260a201985b16e67f3b639e7802611b.jpg" width="900" height ="200"/>
 </p>
 
-<p align="center"
- 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Desenvolvedora+Front-End;Artista;Criando+soluções+inovadoras;Estudante+de+Ads;Web+Design;Apaixonada+por+tecnologia)](https://git.io/typing-svg)
-</p>
-
-
 
 
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Barbiero-Ana&show_icons=true&theme=synthwave"/>
