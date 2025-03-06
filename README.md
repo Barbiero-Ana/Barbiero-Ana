@@ -11,7 +11,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Desenvolvedora+Front-End;Artista;Criando+soluções+inovadoras;Estudante+de+Ads;Web+Design;Apaixonada+por+tecnologia)](https://git.io/typing-svg)
 </p>
 
- <img src="https://github-readme-stats.vercel.app/api?username=Barbiero-Ana&show_icons=true&theme=synthwave"/>
 
 
 
