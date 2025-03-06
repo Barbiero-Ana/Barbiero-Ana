@@ -62,13 +62,6 @@
   <img src="https://i.pinimg.com/originals/42/60/a2/4260a201985b16e67f3b639e7802611b.jpg" width="900" height ="200"/>
 </p>
 
-<p align='center'>
- 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Front-End+Developer;Artist;Creating+innovative+solutions;ADS+Student;Web+Designer;Passionate+about+technology)](https://git.io/typing-svg)
-
-</p>
-
-
  ### 🚀 My Journey So Far:
 
 - 📚 2024 - Studying Systems Analysis and Development at UNIVAG 1/5
