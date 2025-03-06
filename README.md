@@ -21,8 +21,8 @@
    <img align="center" alt="Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg">
 
  ### 🚀 Minha Jornada até Aqui:
-
-- 📚 2024 - Cursando Análise e Desenvolvimento de Sistemas na UNIVAG 1/5
+- 🏛  2025 - Estagiando na PGE-MT
+- 📚 2024 - Cursando Análise e Desenvolvimento de Sistemas na UNIVAG 2/5
 - 🌍 2022 - Intercâmbio na Califórnia, concluindo o ensino médio
 - 💼 2022 - Suporte interno na Uber EATS, San Mateo, Califórnia
 - 🎨 2021 - Início da carreira como artista digital autônoma
@@ -63,8 +63,8 @@
 </p>
 
  ### 🚀 My Journey So Far:
-
-- 📚 2024 - Studying Systems Analysis and Development at UNIVAG 1/5
+- 🏛  2025 - Interning at PGE-MT (State Attorney General's Office of Mato Grosso)
+- 📚 2024 - Studying Systems Analysis and Development at UNIVAG 2/5
 - 🌍 2022 - Exchange program in California, completing high school
 - 💼 2022 - Internal support at Uber EATS, San Mateo, California
 - 🎨 2021 - Started my career as a freelance digital artist
