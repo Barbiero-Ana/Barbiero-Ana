@@ -38,8 +38,6 @@ Utilizando o Streamlit, criando uma interface amigável e realizando a análise 
 
 ---
 
-### 📈 GitHub Stats
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Barbiero-Ana&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Barbiero-Ana&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
@@ -49,7 +47,6 @@ Utilizando o Streamlit, criando uma interface amigável e realizando a análise 
 
 ### 📬 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/anabarbiero/)  
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:anacarolinabarbiero@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/anabarbiero/)  - [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:anacarolinabarbiero@gmail.com)
 
 ---
