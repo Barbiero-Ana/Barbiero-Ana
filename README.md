@@ -30,11 +30,11 @@
 
 ### 🚀 Projetos em Destaque
 
-- 🐶 [PetShop Cyber](https://github.com/Barbiero-Ana/petshop-cyber)  
+- 🐶 [PetShop Cyber](https://github.com/Barbiero-Ana/petshop-pyQt)  
 Sistema completo de gerenciamento de petshop com PyQt6, cadastro de usuários, pets e agenda.
 
-- 🎮 [Raízes Ocultas](https://github.com/Barbiero-Ana/raizes-ocultas)  
-Jogo educativo com quiz e elementos de RPG, explorando a cultura mato-grossense de forma lúdica.
+- 🛒 [Análise de vendas](https://github.com/Barbiero-Ana/Analise-de-vendas)  
+Utilizando o Streamlit, criando uma interface amigável e realizando a análise dos dados contidos em um arquivo CSV. Dessa forma, permitindo a leitura de forma clara e objetiva.
 
 ---
 
