@@ -44,7 +44,6 @@ Coffee: Always ☕
 
 <div align="center">
 
----
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Barbiero-Ana&theme=dark&hide_border=true)
 
 ---
