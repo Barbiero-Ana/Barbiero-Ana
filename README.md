@@ -39,17 +39,22 @@ Coffee: Always ☕
   <img src="https://github-readme-stats.vercel.app/api?username=Barbiero-Ana&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Barbiero-Ana&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 </div>
+
 ---
 
-<p align="center">
-  🌈 <strong>Let’s Connect!</strong><br><br>
-  <a href="https://www.linkedin.com/in/anabarbiero/">
-    <img src="https://img.shields.io/badge/LinkedIn-Ana%20Barbiero-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:anacarolinabarbiero@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-anacarolinabarbiero%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+<div align="center">
+
+## 🌈 Let’s Connect!
+
+<a href="https://www.linkedin.com/in/anabarbiero/">
+  <img src="https://img.shields.io/badge/LinkedIn-Ana%20Barbiero-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:anacarolinabarbiero@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-anacarolinabarbiero%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
 
 ---
 
