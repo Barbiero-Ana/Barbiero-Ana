@@ -19,5 +19,6 @@
 ```yaml
 Name: Ana Carolina Barbiero
 Role: Dev & Data Enthusiast
-Style: Clean Code ✨, Human-Centered Design 🧠
+Style: Clean Code ✨, Creative solutions 💻, Always learning 📚
 Coffee: Always ☕
+
