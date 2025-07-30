@@ -38,20 +38,22 @@ Coffee: Always ☕
 
 ## 🌟 Featured Projects
 
-🐶 PetShop Cyber
+*🐶 PetShop Cyber**
 A complete desktop system for pet shop management using PyQt6! It includes user and pet registration, agenda, and admin tools.
 
-📈 Sales Dashboard
+*📈 Sales Dashboard**
 A smart sales analysis dashboard built with Streamlit and Pandas, turning raw CSV files into insightful visual reports.
 
-🎮 Raízes Ocultas
+*🎮 Raízes Ocultas**
 An educational adventure game that blends RPG, quizzes, and Brazilian culture to empower students with knowledge.
 
+---
 
-📊 GitHub Stats
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Barbiero-Ana&show_icons=true&theme=tokyonight&hide_border=true" height="150"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Barbiero-Ana&layout=compact&theme=tokyonight&hide_border=true" height="150"/> </div>
 🌈 Let’s Connect!
 <p align="center"> <a href="https://www.linkedin.com/in/anabarbiero/"><img src="https://img.shields.io/badge/LinkedIn-Ana%20Barbiero-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="mailto:anacarolinabarbiero@gmail.com"><img src="https://img.shields.io/badge/Gmail-anacarolinabarbiero%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> </p>
+
+---
 
 
 ✨ “Be curious. Be creative. Be bold.”
