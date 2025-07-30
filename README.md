@@ -44,6 +44,10 @@ Coffee: Always ☕
 
 <div align="center">
 
+---
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Barbiero-Ana&theme=dark&hide_border=true" />
+---
+
 ## 🌈 Let’s Connect!
 
 <a href="https://www.linkedin.com/in/anabarbiero/">
