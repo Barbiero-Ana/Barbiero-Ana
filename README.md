@@ -6,8 +6,6 @@
   <img src="https://img.shields.io/badge/Location-Brazil-009688?style=for-the-badge" />
 </p>
 
----
-
 <div align="center">
   <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="200" />
 </div>
