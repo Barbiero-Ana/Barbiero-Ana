@@ -15,17 +15,17 @@
 ### 🌼 About Me
 
 ```yaml
-Name: Ana Carolina Barbiero
+Name: Ana Barbiero
 Role: Dev & Data Enthusiast
-Style: Clean Code ✨, Creative solutions 💻, Always learning 📚
+Style: Clean Code ✨ Always learning 📚
 Coffee: Always ☕
 
 ```
 
 ## 🧰 Tech Stack
 ```yaml
-✨ Languages:      Python | JavaScript | HTML | CSS
-🚧 In Progress:    Java | MySQL | PMO | Swift
+✨ Languages:      Python | Js | 
+🚧 In Progress:    C# | MySQL | PMO | Swift
 🛠️ Frameworks:     PyQt6 | Flask | Streamlit | Pandas | Seaborn | Django
 🗃️ Databases:      SQLite | MySQL
 🎨 Tools:          Git | GitHub | Figma | Canva | SCRUM
