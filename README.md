@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-In%20constant%20evolution-ff69b4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/always-In%20curious-C#%20%7C%20SQL%20%7C%20Data%20%7C%20UX-8A2BE2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/always%20curious-C%23%20%7C%20SQL%20%7C%20Data%20%7C%20UX-8A2BE2?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Location-Brazil-009688?style=for-the-badge" />
 </p>
 
