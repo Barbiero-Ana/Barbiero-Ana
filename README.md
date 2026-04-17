@@ -24,11 +24,11 @@ Coffee: Always ☕
 
 ## 🧰 Tech Stack
 ```yaml
-✨ Languages:      Python | Js | 
-🚧 In Progress:    C# | MySQL | PMO | Swift
-🛠️ Frameworks:     PyQt6 | Flask | Streamlit | Pandas | Seaborn | Django
+✨ Languages:      Python | Js | React | C# | Next
+🚧 In Progress:    C# | PMO | Swift
+🛠️ Frameworks:     PyQt6 | Flask | Streamlit | Pandas | Seaborn | Django 
 🗃️ Databases:      SQLite | MySQL
-🎨 Tools:          Git | GitHub | Figma | Canva | SCRUM
+🎨 Tools:          Git | GitHub | Figma | Canva | SCRUM | Jira 
 ```
 
 <div align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="50"/> </div>
