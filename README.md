@@ -13,8 +13,6 @@ $ whoami
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=4CAF50&center=true&vCenter=true&width=600&lines=Fullstack%20Developer%20%E2%9C%A6;Estagi%C3%A1ria%20na%20LbrIt%20%E2%9C%A6;ADS%20%2B%20Eng.%20de%20Software%20%E2%9C%A6;Aberta%20a%20freelances%20%E2%9C%A6" />
-
 <img src="https://img.shields.io/badge/Est%C3%A1gio-Fullstack%20%40%20LbrIt-2E7D32?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Cursando-ADS%20%2B%20Eng.%20de%20Software-43A047?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Freelas-Aberta%20a%20propostas%20%E2%9C%A6-66BB6A?style=for-the-badge" />
@@ -26,7 +24,7 @@ $ whoami
 
 <table width="100%">
 <tr>
-<td valign="top" width="50%">
+<td valign="top" width="50%" align="center">
 
 ### 🌱 About Me
 
@@ -38,19 +36,15 @@ $ whoami
 - **Aberta a:** freelances & novos desafios
 
 </td>
-<td valign="top" width="50%">
+<td valign="top" width="50%" align="center">
 
 ### 💫 Currently
 
 ★ Estagiária **Fullstack** na **LbrIt**
 
-★ Cursando **ADS** — UNIVAG
-
-★ Cursando **Eng. de Software** (início recente)
+★ Cursando **ADS e ENG. de Software**
 
 ★ Aberta a **freelances** — bora conversar?
-
-★ Sempre estudando algo novo ✨
 
 </td>
 </tr>
