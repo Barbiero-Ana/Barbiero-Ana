@@ -54,11 +54,6 @@ Google UX Design Professional Certificate (v2)
 
 ---
 
-
----
-
----
-
 <div align="center">
 
 ## ★ Visitor Constellation
