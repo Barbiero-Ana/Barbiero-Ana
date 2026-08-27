@@ -57,6 +57,8 @@ Google UX Design Professional Certificate (v2)
 
 ---
 
+---
+
 <div align="center">
 
 ## ★ Visitor Constellation
@@ -66,21 +68,13 @@ Google UX Design Professional Certificate (v2)
 <br><br>
 
 <a href="https://github.com/Barbiero-Ana/Barbiero-Ana/issues/2#issuecomment-new">
-  <img
-    src="https://img.shields.io/badge/★%20ADD%20YOUR%20STAR-8A2BE2?style=for-the-badge"
-    alt="Add your star"
-  />
+  <img src="https://img.shields.io/badge/★%20ADD%20YOUR%20STAR-8A2BE2?style=for-the-badge" alt="Add your star" />
 </a>
 
 <br><br>
 
 <!-- CONSTELLATION_IMAGE_START -->
-
-    <img
-      src="./assets/constellation.svg?v=1787841893795"
-      width="100%"
-      alt="Visitor Constellation"
-    />
+<img src="./assets/constellation.svg?v=1" width="100%" alt="Visitor Constellation" />
 <!-- CONSTELLATION_IMAGE_END -->
 
 <br>
