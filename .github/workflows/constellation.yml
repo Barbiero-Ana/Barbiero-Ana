@@ -1,0 +1,506 @@
+name: ★ Visitor Constellation
+
+on:
+  issue_comment:
+    types: [created, edited, deleted]
+
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  issues: read
+
+concurrency:
+  group: visitor-constellation
+  cancel-in-progress: true
+
+jobs:
+  update:
+    if: >
+      github.event_name == 'workflow_dispatch' ||
+      github.event.issue.title == '★ Visitor Constellation'
+
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate constellation
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require("fs");
+
+            const OWNER = context.repo.owner;
+            const REPO = context.repo.repo;
+            const ISSUE_TITLE = "★ Visitor Constellation";
+
+            const issues = await github.paginate(
+              github.rest.issues.listForRepo,
+              {
+                owner: OWNER,
+                repo: REPO,
+                state: "all",
+                per_page: 100
+              }
+            );
+
+            const constellationIssue = issues.find(
+              issue =>
+                !issue.pull_request &&
+                issue.title === ISSUE_TITLE
+            );
+
+            if (!constellationIssue) {
+              core.setFailed(`Issue "${ISSUE_TITLE}" not found.`);
+              return;
+            }
+
+            const comments = await github.paginate(
+              github.rest.issues.listComments,
+              {
+                owner: OWNER,
+                repo: REPO,
+                issue_number: constellationIssue.number,
+                per_page: 100
+              }
+            );
+
+            const humans = comments.filter(
+              comment =>
+                comment.user &&
+                comment.user.type !== "Bot"
+            );
+
+            const seen = new Set();
+            const visitors = [];
+
+            for (let i = humans.length - 1; i >= 0; i--) {
+              const comment = humans[i];
+              const login = comment.user.login;
+
+              if (seen.has(login)) continue;
+
+              seen.add(login);
+              visitors.push(comment);
+            }
+
+            visitors.reverse();
+
+            const selectedVisitors = visitors.slice(-50);
+
+            function hashString(value) {
+              let hash = 0;
+
+              for (let i = 0; i < value.length; i++) {
+                hash =
+                  ((hash << 5) - hash) +
+                  value.charCodeAt(i);
+
+                hash |= 0;
+              }
+
+              return Math.abs(hash);
+            }
+
+            function escapeXML(value = "") {
+              return value
+                .replace(/&/g, "&amp;")
+                .replace(/</g, "&lt;")
+                .replace(/>/g, "&gt;")
+                .replace(/"/g, "&quot;")
+                .replace(/'/g, "&apos;");
+            }
+
+            function cleanMessage(value = "") {
+              return value
+                .replace(/\r?\n/g, " ")
+                .replace(/\s+/g, " ")
+                .trim()
+                .slice(0, 55);
+            }
+
+            function starPoints(cx, cy, outerRadius) {
+              const innerRadius = outerRadius * 0.43;
+              const points = [];
+
+              for (let i = 0; i < 10; i++) {
+                const radius =
+                  i % 2 === 0
+                    ? outerRadius
+                    : innerRadius;
+
+                const angle =
+                  -Math.PI / 2 +
+                  i * Math.PI / 5;
+
+                const x =
+                  cx + Math.cos(angle) * radius;
+
+                const y =
+                  cy + Math.sin(angle) * radius;
+
+                points.push(
+                  `${x.toFixed(2)},${y.toFixed(2)}`
+                );
+              }
+
+              return points.join(" ");
+            }
+
+            const palette = [
+              "#4ADE80",
+              "#22C55E",
+              "#10B981",
+              "#86EFAC",
+              "#A78BFA",
+              "#C084FC",
+              "#F472B6",
+              "#FACC15"
+            ];
+
+            const occupied = [];
+
+            function createPosition(login) {
+              const baseHash = hashString(login);
+
+              for (let attempt = 0; attempt < 40; attempt++) {
+                const hash = hashString(
+                  `${login}-${attempt}-${baseHash}`
+                );
+
+                const x = 70 + (hash % 850);
+
+                const y =
+                  80 +
+                  (
+                    Math.floor(hash / 17) %
+                    260
+                  );
+
+                const collision =
+                  occupied.some(point => {
+                    const distance = Math.sqrt(
+                      Math.pow(point.x - x, 2) +
+                      Math.pow(point.y - y, 2)
+                    );
+
+                    return distance < 42;
+                  });
+
+                if (!collision) {
+                  const point = { x, y };
+                  occupied.push(point);
+                  return point;
+                }
+              }
+
+              return {
+                x: 70 + (baseHash % 850),
+                y: 80 + (
+                  Math.floor(baseHash / 17) % 260
+                )
+              };
+            }
+
+            const stars = selectedVisitors.map(
+              comment => {
+                const login = comment.user.login;
+                const hash = hashString(login);
+                const position = createPosition(login);
+
+                return {
+                  login,
+                  message: cleanMessage(comment.body),
+                  x: position.x,
+                  y: position.y,
+                  size: 5 + (hash % 5),
+                  color:
+                    palette[
+                      hash % palette.length
+                    ]
+                };
+              }
+            );
+
+            let connections = "";
+
+            for (let i = 1; i < stars.length; i++) {
+              const current = stars[i];
+
+              let closest = null;
+              let closestDistance = Infinity;
+
+              for (let j = 0; j < i; j++) {
+                const other = stars[j];
+
+                const distance = Math.sqrt(
+                  Math.pow(current.x - other.x, 2) +
+                  Math.pow(current.y - other.y, 2)
+                );
+
+                if (distance < closestDistance) {
+                  closest = other;
+                  closestDistance = distance;
+                }
+              }
+
+              if (closest && closestDistance < 240) {
+                connections += `
+                  <line
+                    x1="${current.x}"
+                    y1="${current.y}"
+                    x2="${closest.x}"
+                    y2="${closest.y}"
+                    stroke="#86EFAC"
+                    stroke-width="0.8"
+                    opacity="0.18"
+                  />
+                `;
+              }
+            }
+
+            let backgroundStars = "";
+
+            for (let i = 0; i < 80; i++) {
+              const hash = hashString(
+                `background-star-${i}`
+              );
+
+              const x = hash % 1000;
+              const y = Math.floor(hash / 10) % 410;
+
+              const opacity =
+                0.10 +
+                (hash % 20) / 100;
+
+              const radius =
+                0.5 +
+                (hash % 12) / 10;
+
+              backgroundStars += `
+                <circle
+                  cx="${x}"
+                  cy="${y}"
+                  r="${radius}"
+                  fill="#D1FAE5"
+                  opacity="${opacity}"
+                />
+              `;
+            }
+
+            let starElements = "";
+
+            stars.forEach((star, index) => {
+              const isRecent =
+                index >= stars.length - 8;
+
+              starElements += `
+                <g>
+
+                  <polygon
+                    points="${starPoints(
+                      star.x,
+                      star.y,
+                      star.size
+                    )}"
+                    fill="${star.color}"
+                  />
+
+                  ${
+                    isRecent
+                      ? `
+                        <text
+                          x="${star.x + 13}"
+                          y="${star.y + 2}"
+                          fill="#ECFDF5"
+                          font-size="11"
+                          font-family="Arial, Helvetica, sans-serif"
+                        >
+                          @${escapeXML(star.login)}
+                        </text>
+
+                        ${
+                          star.message
+                            ? `
+                              <text
+                                x="${star.x + 13}"
+                                y="${star.y + 16}"
+                                fill="#A7F3D0"
+                                opacity="0.60"
+                                font-size="8.5"
+                                font-family="Arial, Helvetica, sans-serif"
+                              >
+                                ${escapeXML(star.message)}
+                              </text>
+                            `
+                            : ""
+                        }
+                      `
+                      : ""
+                  }
+
+                </g>
+              `;
+            });
+
+            if (stars.length === 0) {
+              starElements = `
+                <polygon
+                  points="${starPoints(500,190,11)}"
+                  fill="#A78BFA"
+                />
+
+                <text
+                  x="500"
+                  y="225"
+                  text-anchor="middle"
+                  fill="#D1FAE5"
+                  font-family="Arial, Helvetica, sans-serif"
+                  font-size="15"
+                >
+                  your star could be the first
+                </text>
+              `;
+            }
+
+            const svg = `
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              width="1000"
+              height="410"
+              viewBox="0 0 1000 410"
+            >
+
+              <defs>
+
+                <linearGradient
+                  id="sky"
+                  x1="0%"
+                  y1="0%"
+                  x2="100%"
+                  y2="100%"
+                >
+                  <stop
+                    offset="0%"
+                    stop-color="#020B07"
+                  />
+
+                  <stop
+                    offset="40%"
+                    stop-color="#052E16"
+                  />
+
+                  <stop
+                    offset="72%"
+                    stop-color="#102A24"
+                  />
+
+                  <stop
+                    offset="100%"
+                    stop-color="#241636"
+                  />
+
+                </linearGradient>
+
+              </defs>
+
+              <rect
+                width="1000"
+                height="410"
+                rx="18"
+                fill="url(#sky)"
+              />
+
+              ${backgroundStars}
+
+              <text
+                x="35"
+                y="35"
+                fill="#4ADE80"
+                font-family="Arial, Helvetica, sans-serif"
+                font-size="13"
+                font-weight="bold"
+                letter-spacing="2"
+              >
+                ★ VISITOR CONSTELLATION
+              </text>
+
+              ${connections}
+              ${starElements}
+
+              <text
+                x="965"
+                y="385"
+                text-anchor="end"
+                fill="#A7F3D0"
+                opacity="0.55"
+                font-size="10"
+                font-family="Arial, Helvetica, sans-serif"
+              >
+                ${
+                  stars.length === 1
+                    ? "1 visitor ★"
+                    : `${stars.length} visitors ★`
+                }
+              </text>
+
+            </svg>
+            `;
+
+            fs.mkdirSync(
+              "assets",
+              { recursive: true }
+            );
+
+            fs.writeFileSync(
+              "assets/constellation.svg",
+              svg.trim()
+            );
+
+            if (fs.existsSync("README.md")) {
+              let readme =
+                fs.readFileSync(
+                  "README.md",
+                  "utf8"
+                );
+
+              let counter;
+
+              if (stars.length === 0) {
+                counter =
+                  "`★ waiting for the first star...`";
+              } else if (stars.length === 1) {
+                counter =
+                  "`★ 1 visitor in this constellation`";
+              } else {
+                counter =
+                  `\`★ ${stars.length} visitors in this constellation\``;
+              }
+
+              readme = readme.replace(
+                /<!-- CONSTELLATION_COUNT_START -->[\s\S]*?<!-- CONSTELLATION_COUNT_END -->/,
+                `<!-- CONSTELLATION_COUNT_START -->\n${counter}\n<!-- CONSTELLATION_COUNT_END -->`
+              );
+
+              fs.writeFileSync(
+                "README.md",
+                readme
+              );
+            }
+
+      - name: Commit constellation
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add README.md assets/constellation.svg
+
+          if git diff --cached --quiet; then
+            echo "No constellation changes."
+            exit 0
+          fi
+
+          git commit -m "★ update visitor constellation"
+          git push
