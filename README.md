@@ -1,196 +1,95 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:071A12,55:14532D,100:4ADE80&height=150&section=header&text=Ana%20Barbiero%20%E2%9C%A6&fontSize=38&fontColor=F0FFF4&fontAlignY=43"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:052E16,35:15803D,70:4ADE80,100:A78BFA&height=150&section=header&text=Ana%20Barbiero%20%E2%98%85&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
 ### Fullstack Developer
 
-`C#` · `React` · `TypeScript` · `SQL` · `Python`
-
-✦ building, learning & creating ✦
-
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2800&pause=1000&color=4ADE80&center=true&vCenter=true&width=520&lines=Fullstack+Intern+%40+LbrIt+%E2%98%85;ADS+%40+UNIVAG;Software+Engineering;Open+to+Freelance+Projects+%E2%98%85"/>
 
 <a href="https://www.linkedin.com/in/anabarbiero/">
-  <img src="https://img.shields.io/badge/LinkedIn-14532D?style=flat-square&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:anacarolinabarbiero@gmail.com">
-  <img src="https://img.shields.io/badge/Email-16A34A?style=flat-square&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-16A34A?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
 
-<img src="https://img.shields.io/badge/Open%20to-Freelance-A78BFA?style=flat-square"/>
+<img src="https://img.shields.io/badge/Open%20to-Freelance-F59E0B?style=flat-square"/>
 
 </div>
 
 ---
 
-## ✦ about me
+## ★ about
 
-Desenvolvedora **Fullstack**, atualmente estagiária na **LbrIt**, atuando no desenvolvimento e manutenção de aplicações enquanto avanço na minha jornada profissional para o nível Júnior.
+Fullstack Developer, atualmente **estagiária na LbrIt**.
 
-Curso **Análise e Desenvolvimento de Sistemas na UNIVAG** e recentemente comecei também **Engenharia de Software**.
+Estudante de **Análise e Desenvolvimento de Sistemas na UNIVAG** e **Engenharia de Software**.
 
-Gosto de explorar tecnologia além do código: **interfaces, UX, dados, produto e novas ideias**. Para mim, desenvolver também significa entender problemas reais e transformar essas necessidades em experiências úteis, intuitivas e bem construídas.
+Gosto de transformar problemas em soluções que conectam **código, UX, design e criatividade**.
 
-> ★ curiosidade nível Twilight Sparkle
-
----
-
-## ✦ currently
-
-```text
-work      → Fullstack Intern @ LbrIt
-college   → ADS @ UNIVAG
-studying  → Software Engineering
-status    → Open to freelance projects
+```ts
+const ana = {
+  role: "Fullstack Developer",
+  stack: ["C#", "React", "TypeScript"],
+  energy: "Twilight Sparkle level curiosity ★",
+  favoriteColor: "green",
+  status: "always building"
+};
 ```
 
 ---
 
-## ✦ stack
+## ★ stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cs,react,ts,js,python,mysql,figma,git&theme=dark" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-**Development**
-C# · React · TypeScript · JavaScript · Python
-
-**Data**
-SQL · Pandas
-
-**Design & Product**
-Figma · Canva · UX · Scrum
-
-</div>
-
----
-
-## ✦ how I like to build
-
-Gosto de projetos que conectam diferentes áreas:
-
-`code` ✦ `UX` ✦ `data` ✦ `design` ✦ `problem solving`
-
-Meu interesse está principalmente em construir soluções onde tecnologia resolve uma **dor real** e existe espaço para pensar não apenas em como desenvolver, mas também em como aquela experiência será utilizada.
-
-```text
-idea
-  ↓
-understand the problem
-  ↓
-design the experience
-  ↓
-build
-  ↓
-test
-  ↓
-learn & improve ✦
-```
-
----
-
-## ✦ learning
-
-Sempre tem alguma coisa em compilação por aqui.
-
-```js
-while (curious) {
-  learn();
-  build();
-  improve();
-}
-```
-
-<details>
-<summary><b>★ courses & certifications</b></summary>
-
-<br>
-
-<!--
-Exemplo:
-
-<a href="LINK_DA_CREDENCIAL">
-  <img src="https://img.shields.io/badge/NOME%20DO%20CURSO-Certified-14532D?style=flat-square"/>
-</a>
--->
-
-### ★ Certifications
-
-* **Nome da certificação** — Instituição · Ano
-* **Nome da certificação** — Instituição · Ano
-
-### ✦ Courses
-
-* **Nome do curso** — Instituição · Ano
-* **Nome do curso** — Instituição · Ano
-* **Nome do curso** — Instituição · Ano
-
-</details>
-
----
-
-## ✦ github
-
-<div align="center">
-
-<img height="145" src="https://github-readme-stats.vercel.app/api?username=Barbiero-Ana&show_icons=true&hide_border=true&bg_color=00000000&title_color=22C55E&icon_color=A78BFA&text_color=94A3B8"/>
-
-<img height="145" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Barbiero-Ana&layout=compact&hide_border=true&bg_color=00000000&title_color=22C55E&text_color=94A3B8"/>
-
-</div>
-
----
-
-<div align="center">
-
-### ✦ a little bit of my universe
-
-```yaml
-developer:
-  name: Ana Barbiero
-  favorite_color: green
-  energy: Twilight Sparkle ✦
-  likes:
-    - technology
-    - creativity
-    - design
-    - learning
-    - solving real problems
-
-  current_mode: "constantly compiling..."
-```
-
----
-
-### ★ let's build something together
-
-Estou aberta a **projetos freelance**, novas ideias e oportunidades para criar produtos interessantes.
-
-**Have an idea? Maybe we should build it. ✦**
-
-<br>
-
-<a href="https://www.linkedin.com/in/anabarbiero/">
-  <img src="https://img.shields.io/badge/LinkedIn-14532D?style=flat-square&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:anacarolinabarbiero@gmail.com">
-  <img src="https://img.shields.io/badge/Email-16A34A?style=flat-square&logo=gmail&logoColor=white"/>
-</a>
+<img src="https://skillicons.dev/icons?i=cs,react,ts,js,python,mysql,figma,git&theme=dark"/>
 
 <br><br>
 
-`★ create` · `✦ explore` · `★ learn` · `✦ evolve`
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-2563EB?style=flat-square"/>
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white"/>
+<img src="https://img.shields.io/badge/UX-A855F7?style=flat-square"/>
+<img src="https://img.shields.io/badge/Scrum-F59E0B?style=flat-square"/>
+
+</div>
+
+---
+
+## ★ certification
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/anabarbiero/details/certifications/">
+<img src="https://img.shields.io/badge/Google-UX%20Design%20Professional%20Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+## ★ github
+
+<div align="center">
+
+<img height="145" src="https://github-readme-stats.vercel.app/api?username=Barbiero-Ana&show_icons=true&hide_border=true&bg_color=052E16&title_color=4ADE80&icon_color=C084FC&text_color=DCFCE7"/>
+
+<img height="145" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Barbiero-Ana&layout=compact&hide_border=true&bg_color=052E16&title_color=4ADE80&text_color=DCFCE7"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### ★ build · learn · create · evolve
+
+`C#` · `React` · `TypeScript` · `UX` · `Creativity`
 
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:A78BFA,35:22C55E,70:14532D,100:071A12&height=90&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:A78BFA,30:22C55E,65:15803D,100:052E16&height=80&section=footer"/>
 
 </div>
