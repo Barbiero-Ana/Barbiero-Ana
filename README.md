@@ -1,198 +1,148 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:061A12,35:0B5D3B,70:22C55E,100:A78BFA&height=220&section=header&text=Ana%20Barbiero&fontSize=48&fontColor=F0FFF4&animation=fadeIn&fontAlignY=36&desc=Fullstack%20Developer%20%E2%9C%A6%20turning%20ideas%20into%20experiences&descAlignY=57&descSize=17"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:071A12,55:14532D,100:4ADE80&height=150&section=header&text=Ana%20Barbiero%20%E2%9C%A6&fontSize=38&fontColor=F0FFF4&fontAlignY=43"/>
 
-### ✦ code, curiosity & a little bit of magic ✦
+### Fullstack Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=900&color=4ADE80&center=true&vCenter=true&width=650&lines=Fullstack+Developer+%E2%9C%A6;C%23+%2B+React+%2B+TypeScript;Fullstack+Intern+%40+LbrIt;ADS+%40+UNIVAG+%E2%9C%A6+Software+Engineering;Open+to+freelance+projects+%E2%98%85;Always+learning.+Always+building.+%E2%9C%A6" />
+`C#` · `React` · `TypeScript` · `SQL` · `Python`
+
+✦ building, learning & creating ✦
 
 <br>
 
 <a href="https://www.linkedin.com/in/anabarbiero/">
-  <img src="https://img.shields.io/badge/LinkedIn-Ana%20Barbiero-0B5D3B?style=flat-square&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-14532D?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
+
 <a href="mailto:anacarolinabarbiero@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Let's%20talk-15803D?style=flat-square&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-16A34A?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
-<img src="https://img.shields.io/badge/Status-Open%20to%20Freelance-22C55E?style=flat-square&logo=sparkles&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Open%20to-Freelance-A78BFA?style=flat-square"/>
 
 </div>
 
 ---
 
-## ✦ Hello, world!
+## ✦ about me
 
-```ts
-const ana = {
-  role: "Fullstack Developer",
-  currently: "Fullstack Intern @ LbrIt",
+Desenvolvedora **Fullstack**, atualmente estagiária na **LbrIt**, atuando no desenvolvimento e manutenção de aplicações enquanto avanço na minha jornada profissional para o nível Júnior.
 
-  education: [
-    "Análise e Desenvolvimento de Sistemas @ UNIVAG",
-    "Engenharia de Software"
-  ],
+Curso **Análise e Desenvolvimento de Sistemas na UNIVAG** e recentemente comecei também **Engenharia de Software**.
 
-  interests: [
-    "Software Development",
-    "UX & Product",
-    "Creative Interfaces",
-    "Data",
-    "Technology"
-  ],
+Gosto de explorar tecnologia além do código: **interfaces, UX, dados, produto e novas ideias**. Para mim, desenvolver também significa entender problemas reais e transformar essas necessidades em experiências úteis, intuitivas e bem construídas.
 
-  curiosityLevel: "Twilight Sparkle ✦",
-  favoriteColor: "green — every shade of it",
-  status: "learning • building • evolving",
-  openTo: "freelance projects"
-};
-```
-
-Sou desenvolvedora **Fullstack**, atualmente atuando profissionalmente como estagiária na **LbrIt** e consolidando minha evolução para o nível Júnior.
-
-Gosto de desenvolver muito além do código: explorar ideias, pensar na experiência de quem vai utilizar o produto e transformar problemas reais em soluções que sejam **úteis, intuitivas e visualmente interessantes**.
-
-Atualmente curso **Análise e Desenvolvimento de Sistemas na UNIVAG** e também iniciei minha graduação em **Engenharia de Software**.
-
-> ★ tecnologia para mim também é espaço para experimentar, criar e aprender.
+> ★ curiosidade nível Twilight Sparkle
 
 ---
 
-## ✦ What I'm doing now
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### ★ Development
-
-- Fullstack Intern @ **LbrIt**
-- Desenvolvimento com **C#**
-- Interfaces com **React**
-- **TypeScript** & JavaScript
-- Manipulação e consulta de dados com **SQL**
-- Desenvolvimento e manutenção de sistemas reais
-
-</td>
-
-<td width="50%" valign="top">
-
-### ✦ Learning & Creating
-
-- ADS @ **UNIVAG**
-- Engenharia de Software
-- UX & UI
-- Python & Pandas
-- Arquitetura e boas práticas
-- Projetos próprios
-- Freelance development
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-## ★ my tech constellation
-
-`backend` ✦ `frontend` ✦ `data` ✦ `design` ✦ `product`
-
-</div>
-
-### ✦ Development
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/C%23-0B5D3B?style=for-the-badge&logo=csharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-15803D?style=for-the-badge&logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-16A34A?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-22C55E?style=for-the-badge&logo=javascript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-4ADE80?style=for-the-badge&logo=python&logoColor=0B2E1E"/>
-
-</div>
-
-### ✦ Data
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/SQL-0B5D3B?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-15803D?style=for-the-badge&logo=pandas&logoColor=white"/>
-
-</div>
-
-### ✦ Design & Product
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Figma-16A34A?style=for-the-badge&logo=figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/Canva-22C55E?style=for-the-badge&logo=canva&logoColor=white"/>
-<img src="https://img.shields.io/badge/UX-4ADE80?style=for-the-badge&logoColor=0B2E1E"/>
-<img src="https://img.shields.io/badge/SCRUM-A78BFA?style=for-the-badge&logoColor=white"/>
-
-</div>
-
-### ✦ Tools
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Git-0B5D3B?style=for-the-badge&logo=git&logoColor=white"/>
-
-</div>
-
----
-
-## ✦ How I like to build
+## ✦ currently
 
 ```text
-        idea
-         │
-         ✦
-    understand
-    the problem
-         │
-         ▼
-   ★── design ──★
-   │            │
-   UX          code
-   │            │
-   └─────✦──────┘
-         │
-         ▼
-      product
-         │
-         ★
-    learn & evolve
+work      → Fullstack Intern @ LbrIt
+college   → ADS @ UNIVAG
+studying  → Software Engineering
+status    → Open to freelance projects
 ```
 
-Para mim, desenvolvimento não começa escolhendo framework.
+---
 
-Começa entendendo **quem possui o problema**, o que precisa ser resolvido e como tecnologia pode tornar aquela experiência melhor.
+## ✦ stack
 
-Por isso gosto de transitar entre:
+<div align="center">
 
-**código** ✦ **produto** ✦ **UX** ✦ **design** ✦ **dados**
+<img src="https://skillicons.dev/icons?i=cs,react,ts,js,python,mysql,figma,git&theme=dark" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+**Development**
+C# · React · TypeScript · JavaScript · Python
+
+**Data**
+SQL · Pandas
+
+**Design & Product**
+Figma · Canva · UX · Scrum
+
+</div>
 
 ---
 
-## ★ Certifications & Learning
+## ✦ how I like to build
 
-<div align="center">
+Gosto de projetos que conectam diferentes áreas:
+
+`code` ✦ `UX` ✦ `data` ✦ `design` ✦ `problem solving`
+
+Meu interesse está principalmente em construir soluções onde tecnologia resolve uma **dor real** e existe espaço para pensar não apenas em como desenvolver, mas também em como aquela experiência será utilizada.
+
+```text
+idea
+  ↓
+understand the problem
+  ↓
+design the experience
+  ↓
+build
+  ↓
+test
+  ↓
+learn & improve ✦
+```
+
+---
+
+## ✦ learning
+
+Sempre tem alguma coisa em compilação por aqui.
+
+```js
+while (curious) {
+  learn();
+  build();
+  improve();
+}
+```
+
+<details>
+<summary><b>★ courses & certifications</b></summary>
+
+<br>
 
 <!--
-ADICIONE SEUS CERTIFICADOS AQUI.
-
-EXEMPLO:
+Exemplo:
 
 <a href="LINK_DA_CREDENCIAL">
-  <img src="https://img.shields.io/badge/NOME%20DO%20CURSO-Certified-0B5D3B?style=for-the-badge&logo=credly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NOME%20DO%20CURSO-Certified-14532D?style=flat-square"/>
 </a>
-
-Você pode duplicar esse bloco para cada curso/certificação.
 -->
 
-<img src="https://img.shields.io/badge/always-learning%20%E2%9C%A6-0B5D3B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/next-skill.loading...-A78BFA?style=for-the-badge"/>
+### ★ Certifications
+
+* **Nome da certificação** — Instituição · Ano
+* **Nome da certificação** — Instituição · Ano
+
+### ✦ Courses
+
+* **Nome do curso** — Instituição · Ano
+* **Nome do curso** — Instituição · Ano
+* **Nome do curso** — Instituição · Ano
+
+</details>
+
+---
+
+## ✦ github
+
+<div align="center">
+
+<img height="145" src="https://github-readme-stats.vercel.app/api?username=Barbiero-Ana&show_icons=true&hide_border=true&bg_color=00000000&title_color=22C55E&icon_color=A78BFA&text_color=94A3B8"/>
+
+<img height="145" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Barbiero-Ana&layout=compact&hide_border=true&bg_color=00000000&title_color=22C55E&text_color=94A3B8"/>
 
 </div>
 
@@ -200,71 +150,47 @@ Você pode duplicar esse bloco para cada curso/certificação.
 
 <div align="center">
 
-## ✦ GitHub Universe
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Barbiero-Ana&show_icons=true&hide_border=true&bg_color=061A12&title_color=4ADE80&icon_color=A78BFA&text_color=D1FAE5&ring_color=22C55E"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Barbiero-Ana&layout=compact&hide_border=true&bg_color=061A12&title_color=4ADE80&text_color=D1FAE5"/>
-
-<br><br>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Barbiero-Ana&bg_color=061A12&color=4ADE80&line=22C55E&point=C084FC&area=true&hide_border=true"/>
-
-</div>
-
----
-
-## ✦ A little more about me
+### ✦ a little bit of my universe
 
 ```yaml
 developer:
   name: Ana Barbiero
-  favorite_color:
-    - forest green
-    - emerald
-    - mint
-    - basically_every_green_possible: true
-
-  character_energy:
-    twilight_sparkle: "★ curiosity + studying everything"
-
-  enjoys:
-    - creating
-    - experimenting
+  favorite_color: green
+  energy: Twilight Sparkle ✦
+  likes:
+    - technology
+    - creativity
+    - design
     - learning
-    - solving problems
-    - designing experiences
+    - solving real problems
 
-  current_mode:
-    "constantly compiling..."
+  current_mode: "constantly compiling..."
 ```
 
 ---
 
-<div align="center">
-
-## ★ Let's build something together
+### ★ let's build something together
 
 Estou aberta a **projetos freelance**, novas ideias e oportunidades para criar produtos interessantes.
 
-Se existe uma ideia esperando para sair do papel:
-
-**maybe we should build it. ✦**
+**Have an idea? Maybe we should build it. ✦**
 
 <br>
 
-<a href="mailto:anacarolinabarbiero@gmail.com">
-<img src="https://img.shields.io/badge/TALK%20TO%20ME-22C55E?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://www.linkedin.com/in/anabarbiero/">
+  <img src="https://img.shields.io/badge/LinkedIn-14532D?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/anabarbiero/">
-<img src="https://img.shields.io/badge/CONNECT-A78BFA?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="mailto:anacarolinabarbiero@gmail.com">
+  <img src="https://img.shields.io/badge/Email-16A34A?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
 
 <br><br>
 
-`★ learning` &nbsp; `✦ creating` &nbsp; `★ coding` &nbsp; `✦ evolving`
+`★ create` · `✦ explore` · `★ learn` · `✦ evolve`
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:A78BFA,35:22C55E,70:0B5D3B,100:061A12&height=120&section=footer"/>
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:A78BFA,35:22C55E,70:14532D,100:071A12&height=90&section=footer"/>
 
 </div>
