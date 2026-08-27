@@ -1,46 +1,64 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:052E16,35:15803D,70:4ADE80,100:A78BFA&height=150&section=header&text=Ana%20Barbiero%20%E2%98%85&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=180&color=0:052E16,35:16A34A,70:4ADE80,100:A855F7&text=Ana%20Barbiero&fontSize=42&fontColor=F0FDF4&animation=fadeIn&stroke=A855F7&strokeWidth=1"/>
 
-### Fullstack Developer
+### Fullstack Developer ★
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2800&pause=1000&color=4ADE80&center=true&vCenter=true&width=520&lines=Fullstack+Intern+%40+LbrIt+%E2%98%85;ADS+%40+UNIVAG;Software+Engineering;Open+to+Freelance+Projects+%E2%98%85"/>
+`C#` · `React` · `TypeScript` · `SQL`
 
-<a href="https://www.linkedin.com/in/anabarbiero/">
-<img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=flat-square&logo=linkedin&logoColor=white"/>
+<br>
+
+<a href="#about">
+  <img src="https://img.shields.io/badge/ABOUT-14532D?style=flat-square"/>
+</a>
+<a href="#stack">
+  <img src="https://img.shields.io/badge/STACK-16A34A?style=flat-square"/>
+</a>
+<a href="#badge">
+  <img src="https://img.shields.io/badge/CREDENTIAL-A855F7?style=flat-square"/>
+</a>
+<a href="#contact">
+  <img src="https://img.shields.io/badge/CONTACT-F59E0B?style=flat-square"/>
 </a>
 
-<a href="mailto:anacarolinabarbiero@gmail.com">
-<img src="https://img.shields.io/badge/Email-16A34A?style=flat-square&logo=gmail&logoColor=white"/>
-</a>
+<br><br>
 
-<img src="https://img.shields.io/badge/Open%20to-Freelance-F59E0B?style=flat-square"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2600&pause=900&color=4ADE80&center=true&vCenter=true&width=520&lines=Fullstack+Intern+%40+LbrIt;ADS+%40+UNIVAG+%2B+Software+Engineering;code+%2B+UX+%2B+creativity+%E2%98%85;open+to+freelance+projects"/>
 
 </div>
 
 ---
 
+<a id="about"></a>
+
 ## ★ about
 
-Fullstack Developer, atualmente **estagiária na LbrIt**.
+**Fullstack Developer** e atualmente **Fullstack Intern @ LbrIt**.
 
-Estudante de **Análise e Desenvolvimento de Sistemas na UNIVAG** e **Engenharia de Software**.
+Cursando **ADS na UNIVAG** + **Engenharia de Software**.
 
-Gosto de transformar problemas em soluções que conectam **código, UX, design e criatividade**.
+Gosto de construir soluções misturando `código`, `UX`, `design` e `criatividade`.
 
 ```ts
 const ana = {
-  role: "Fullstack Developer",
-  stack: ["C#", "React", "TypeScript"],
-  energy: "Twilight Sparkle level curiosity ★",
+  current: "Fullstack @ LbrIt",
+  learning: ["ADS", "Software Engineering"],
   favoriteColor: "green",
-  status: "always building"
-};
+  curiosity: "Twilight Sparkle level",
+  availableFor: "freelance ★"
+}
 ```
 
 ---
 
+<a id="stack"></a>
+
 ## ★ stack
+
+<details>
+<summary><b>clique para explorar minha stack</b></summary>
+
+<br>
 
 <div align="center">
 
@@ -56,40 +74,63 @@ const ana = {
 
 </div>
 
+<br>
+
+`C#` `React` `TypeScript` `JavaScript` `SQL` `Python` `Pandas`
+`Figma` `Canva` `Git` `UX` `Scrum`
+
+</details>
+
 ---
 
-## ★ certification
+<a id="badge"></a>
+
+## ★ credential
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/anabarbiero/details/certifications/">
-<img src="https://img.shields.io/badge/Google-UX%20Design%20Professional%20Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+<a href="https://www.credly.com/badges/4b32eb8f-d84c-4da8-9cf6-5d8396abd8d9/public_url">
+  <img
+    src="https://images.credly.com/images/f4b9febb-69f6-46d8-8797-1e504ebfe0f8/GCC_badge_UX_1000x1000.png"
+    width="145"
+    alt="Google UX Design Professional Certificate"
+  />
 </a>
-
-</div>
-
----
-
-## ★ github
-
-<div align="center">
-
-<img height="145" src="https://github-readme-stats.vercel.app/api?username=Barbiero-Ana&show_icons=true&hide_border=true&bg_color=052E16&title_color=4ADE80&icon_color=C084FC&text_color=DCFCE7"/>
-
-<img height="145" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Barbiero-Ana&layout=compact&hide_border=true&bg_color=052E16&title_color=4ADE80&text_color=DCFCE7"/>
-
-</div>
-
----
-
-<div align="center">
-
-### ★ build · learn · create · evolve
-
-`C#` · `React` · `TypeScript` · `UX` · `Creativity`
 
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:A78BFA,30:22C55E,65:15803D,100:052E16&height=80&section=footer"/>
+**Google UX Design Professional Certificate (v2)**
+
+<sub>click the badge to verify ★</sub>
+
+</div>
+
+---
+
+<a id="contact"></a>
+
+<div align="center">
+
+### ★ let's create something
+
+<a href="https://www.linkedin.com/in/anabarbiero/">
+<img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:anacarolinabarbiero@gmail.com">
+<img src="https://img.shields.io/badge/Email-16A34A?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="mailto:anacarolinabarbiero@gmail.com?subject=Freelance%20Project">
+<img src="https://img.shields.io/badge/Freelance-F59E0B?style=for-the-badge"/>
+</a>
+
+<br><br>
+
+`build` ★ `learn` ★ `create` ★ `evolve`
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:22C55E,50:A855F7,100:F59E0B&section=footer"/>
 
 </div>
