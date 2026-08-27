@@ -152,13 +152,13 @@ jobs:
             // STAR COLORS
             // ---------------------------------------------
             const palette = [
+              "#C4B5FD",
               "#A78BFA",
-              "#C084FC",
               "#DDD6FE",
               "#E9D5FF",
-              "#C4B5FD",
-              "#B794F4",
-              "#D8B4FE"
+              "#D8B4FE",
+              "#C084FC",
+              "#B794F4"
             ];
 
             // ---------------------------------------------
@@ -251,9 +251,9 @@ jobs:
                     y1="${current.y}"
                     x2="${closest.x}"
                     y2="${closest.y}"
-                    stroke="#C4B5FD"
+                    stroke="#DDD6FE"
                     stroke-width="1"
-                    opacity="0.28"
+                    opacity="0.30"
                   />
                 `;
               }
@@ -264,14 +264,14 @@ jobs:
             // ---------------------------------------------
             let backgroundStars = "";
 
-            for (let i = 0; i < 80; i++) {
+            for (let i = 0; i < 90; i++) {
               const hash = hashString(`background-star-${i}`);
 
               const x = hash % 1000;
               const y = Math.floor(hash / 10) % 410;
 
-              const opacity = 0.08 + (hash % 12) / 100;
-              const radius = 0.5 + (hash % 12) / 10;
+              const opacity = 0.08 + (hash % 10) / 100;
+              const radius = 0.5 + (hash % 10) / 10;
 
               backgroundStars += `
                 <circle
@@ -318,8 +318,8 @@ jobs:
                               <text
                                 x="${star.x + 13}"
                                 y="${star.y + 16}"
-                                fill="#DDD6FE"
-                                opacity="0.75"
+                                fill="#E9D5FF"
+                                opacity="0.80"
                                 font-size="8.5"
                                 font-family="Arial, Helvetica, sans-serif"
                               >
@@ -376,20 +376,20 @@ jobs:
                   x2="100%"
                   y2="100%"
                 >
-                  <stop offset="0%" stop-color="#0B1026" />
-                  <stop offset="45%" stop-color="#111C44" />
-                  <stop offset="75%" stop-color="#1A2555" />
-                  <stop offset="100%" stop-color="#2A1B4A" />
+                  <stop offset="0%" stop-color="#0A1025" />
+                  <stop offset="40%" stop-color="#101937" />
+                  <stop offset="72%" stop-color="#1A2555" />
+                  <stop offset="100%" stop-color="#2B1D52" />
                 </linearGradient>
-
-                <radialGradient id="purpleGlow">
-                  <stop offset="0%" stop-color="#A78BFA" stop-opacity="0.10" />
-                  <stop offset="100%" stop-color="#A78BFA" stop-opacity="0" />
-                </radialGradient>
 
                 <radialGradient id="blueGlow">
                   <stop offset="0%" stop-color="#60A5FA" stop-opacity="0.10" />
                   <stop offset="100%" stop-color="#60A5FA" stop-opacity="0" />
+                </radialGradient>
+
+                <radialGradient id="purpleGlow">
+                  <stop offset="0%" stop-color="#A78BFA" stop-opacity="0.12" />
+                  <stop offset="100%" stop-color="#A78BFA" stop-opacity="0" />
                 </radialGradient>
               </defs>
 
@@ -410,7 +410,7 @@ jobs:
               <circle
                 cx="860"
                 cy="320"
-                r="200"
+                r="220"
                 fill="url(#purpleGlow)"
               />
 
@@ -436,7 +436,7 @@ jobs:
                 y="385"
                 text-anchor="end"
                 fill="#FFFFFF"
-                opacity="0.65"
+                opacity="0.68"
                 font-size="10"
                 font-family="Arial, Helvetica, sans-serif"
               >
