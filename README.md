@@ -52,3 +52,39 @@ Google UX Design Professional Certificate (v2)
 
 </div>
 
+---
+
+<div align="center">
+
+## ★ Visitor Constellation
+
+<sub>Every visitor can leave a little star behind.</sub>
+
+<br><br>
+
+<a href="https://github.com/Barbiero-Ana/Barbiero-Ana/issues/2#issuecomment-new">
+  <img
+    src="https://img.shields.io/badge/★%20ADD%20YOUR%20STAR-8A2BE2?style=for-the-badge"
+    alt="Add your star"
+  />
+</a>
+
+<br><br>
+
+<img
+  src="./assets/constellation.svg"
+  width="100%"
+  alt="Visitor Constellation"
+/>
+
+<br>
+
+<!-- CONSTELLATION_COUNT_START -->
+`★ waiting for the first star...`
+<!-- CONSTELLATION_COUNT_END -->
+
+<br>
+
+<sub>Leave a comment and become part of my constellation ★</sub>
+
+</div>
