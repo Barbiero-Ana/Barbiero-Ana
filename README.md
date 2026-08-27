@@ -54,6 +54,9 @@ Google UX Design Professional Certificate (v2)
 
 ---
 
+
+---
+
 <div align="center">
 
 ## ★ Visitor Constellation
@@ -71,11 +74,13 @@ Google UX Design Professional Certificate (v2)
 
 <br><br>
 
+<!-- CONSTELLATION_IMAGE_START -->
 <img
-  src="./assets/constellation.svg"
+  src="./assets/constellation.svg?v=1"
   width="100%"
   alt="Visitor Constellation"
 />
+<!-- CONSTELLATION_IMAGE_END -->
 
 <br>
 
