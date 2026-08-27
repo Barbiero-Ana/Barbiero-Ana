@@ -1,8 +1,8 @@
+🔴 🟡 🟢
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1B5E20,100:4CAF50&height=200&section=header&text=Ana%20Barbiero&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Fullstack%20Developer%20%E2%9C%A6%20Sempre%20Evoluindo&descAlignY=55&descSize=16" width="100%"/>
-
-🔴 🟡 🟢
 
 </div>
 
