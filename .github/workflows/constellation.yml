@@ -686,12 +686,8 @@ jobs:
               const version =
                 Date.now();
 
-              const imageBlock = `
-                <img
-                  src="./assets/constellation.svg?v=${version}"
-                  width="100%"
-                  alt="Visitor Constellation"
-                />`;
+              const imageBlock =
+                `<img src="./assets/constellation.svg?v=${version}" width="100%" alt="Visitor Constellation" />`;
                 
                   readme =
                     readme.replace(
