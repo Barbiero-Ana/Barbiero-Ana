@@ -13,6 +13,8 @@ $ whoami
 
 <div align="center">
 
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=4CAF50&center=true&vCenter=true&width=600&lines=Fullstack%20Developer%20%E2%9C%A6;Estagi%C3%A1ria%20na%20LbrIt%20%E2%9C%A6;ADS%20%2B%20Eng.%20de%20Software%20%E2%9C%A6;Aberta%20a%20freelances%20%E2%9C%A6" />
+
 <img src="https://img.shields.io/badge/Est%C3%A1gio-Fullstack%20%40%20LbrIt-2E7D32?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Cursando-ADS%20%2B%20Eng.%20de%20Software-43A047?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Freelas-Aberta%20a%20propostas%20%E2%9C%A6-66BB6A?style=for-the-badge" />
@@ -24,7 +26,7 @@ $ whoami
 
 <table width="100%">
 <tr>
-<td valign="top" width="50%" align="center">
+<td valign="top" width="50%">
 
 ### 🌱 About Me
 
@@ -36,15 +38,19 @@ $ whoami
 - **Aberta a:** freelances & novos desafios
 
 </td>
-<td valign="top" width="50%" align="center">
+<td valign="top" width="50%">
 
 ### 💫 Currently
 
 ★ Estagiária **Fullstack** na **LbrIt**
 
-★ Cursando **ADS e ENG. de Software**
+★ Cursando **ADS** — UNIVAG
+
+★ Cursando **Eng. de Software** (início recente)
 
 ★ Aberta a **freelances** — bora conversar?
+
+★ Sempre estudando algo novo ✨
 
 </td>
 </tr>
@@ -58,23 +64,23 @@ $ whoami
 
 ```yaml
 ✨ Languages:      Python | JavaScript | TypeScript | C#
-🚀 Frontend:       React | Next.js
-🛠️ Backend:        Flask | Django | PyQt6
-📊 Data:           Pandas | Seaborn | Streamlit
-🗃️ Databases:      SQLite | MySQL
-🎨 Tools:          Git | GitHub | Figma | Canva | SCRUM | Jira
+🚀 Frontend:       React
+📊 Data:           Pandas
+🗃️ Database:       SQL
+🎨 Design:         Figma | Canva | UX/UI
+🛠️ Methodology:    Git | SCRUM
 ```
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" title="C#"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" title="Figma"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" title="React"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" title="TypeScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" title="SQL / MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" title="Django"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" title="SQLite"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" title="Pandas"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" title="SQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" title="Figma"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" title="Git"/>
 </div>
 
 </details>
@@ -82,16 +88,8 @@ $ whoami
 <p align="center">★ ─────────────────────────────────── ★</p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Barbiero-Ana&show_icons=true&hide_border=true&bg_color=0D1117&title_color=4CAF50&icon_color=81C784&text_color=C8E6C9" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Barbiero-Ana&layout=compact&hide_border=true&bg_color=0D1117&title_color=4CAF50&text_color=C8E6C9" height="150"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Barbiero-Ana&hide_border=true&background=0D1117&ring=4CAF50&fire=81C784&currStreakLabel=4CAF50" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Barbiero-Ana&theme=onedark&no-frame=true&margin-w=10&row=1" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Barbiero-Ana&show_icons=true&hide_border=true&bg_color=0D1117&title_color=4CAF50&icon_color=81C784&text_color=C8E6C9" height="150"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Barbiero-Ana&layout=compact&hide_border=true&bg_color=0D1117&title_color=4CAF50&text_color=C8E6C9" height="150"/>
 </div>
 
 <p align="center">★ ─────────────────────────────────── ★</p>
