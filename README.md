@@ -1,43 +1,72 @@
-<h1 align="center">✦ Ana Barbiero ✦</h1>
-<h3 align="center">🌿 Fullstack Developer · sempre estudando, sempre brilhando ✨</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Est%C3%A1gio-Fullstack%20%40%20LbrIt-2E7D32?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Cursando-ADS%20%2B%20Eng.%20de%20Software-43A047?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Freelas-Aberta%20a%20propostas%20%E2%9C%A6-66BB6A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Location-Brazil-81C784?style=for-the-badge" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1B5E20,100:4CAF50&height=200&section=header&text=Ana%20Barbiero&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Fullstack%20Developer%20%E2%9C%A6%20Sempre%20Evoluindo&descAlignY=55&descSize=16" width="100%"/>
 
-<p align="center">★ ─────────────────────────────────── ★</p>
+🔴 🟡 🟢
+
+</div>
+
+```bash
+$ whoami
+★ Ana Barbiero — Fullstack Developer, sempre em compilação
+```
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=4CAF50&center=true&vCenter=true&width=600&lines=Fullstack%20Developer%20%E2%9C%A6;Estagi%C3%A1ria%20na%20LbrIt%20%E2%9C%A6;ADS%20%2B%20Eng.%20de%20Software%20%E2%9C%A6;Aberta%20a%20freelances%20%E2%9C%A6" />
+
+<img src="https://img.shields.io/badge/Est%C3%A1gio-Fullstack%20%40%20LbrIt-2E7D32?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Cursando-ADS%20%2B%20Eng.%20de%20Software-43A047?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Freelas-Aberta%20a%20propostas%20%E2%9C%A6-66BB6A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Location-Brazil-81C784?style=for-the-badge" />
+
+</div>
+
+<br>
+
+<table width="100%">
+<tr>
+<td valign="top" width="50%">
 
 ### 🌱 About Me
 
-```yaml
-Name: Ana Barbiero
-Role: Fullstack Developer (quase Jr) ✦
-Currently: Estagiária Fullstack @ LbrIt
-Studying: ADS (UNIVAG) + Engenharia de Software
-Favorite color: 💚 
-Open to: Freelances 
-```
+- **Role:** Fullstack Developer (quase Jr) ✦
+- **Currently:** Estágio Fullstack @ LbrIt
+- **Studying:** ADS (UNIVAG) + Eng. de Software
+- **Vibe:** curiosidade nível Twilight Sparkle ✨
+- **Cor favorita:** 💚 verde, em todos os tons
+- **Aberta a:** freelances & novos desafios
 
-<p align="center">★ ─────────────────────────────────── ★</p>
+</td>
+<td valign="top" width="50%">
 
 ### 💫 Currently
 
 ★ Estagiária **Fullstack** na **LbrIt**
-★ Cursando **Análise e Desenvolvimento de Sistemas** — UNIVAG
-★ Também cursando **Engenharia de Software** 
-★ Aberta a **freelances** 
+
+★ Cursando **ADS** — UNIVAG
+
+★ Cursando **Eng. de Software** (início recente)
+
+★ Aberta a **freelances** — bora conversar?
+
+★ Sempre estudando algo novo ✨
+
+</td>
+</tr>
+</table>
 
 <p align="center">★ ─────────────────────────────────── ★</p>
 
-## 🧰 Tech Stack
+<details>
+<summary><b>🧰 Tech Stack completa</b> — clique pra expandir</summary>
+<br>
 
 ```yaml
-✨ Bakcend:        C#
-🚀 Frontend:       React | Next.js | TypeScript
-📊 Data:           Python | Pandas | Seaborn | 
+✨ Languages:      Python | JavaScript | C#
+🚀 Frontend:       React | Next.js
+🛠️ Backend:        Flask | Django | PyQt6
+📊 Data:           Pandas | Seaborn | Streamlit
 🗃️ Databases:      SQLite | MySQL
 🎨 Tools:          Git | GitHub | Figma | Canva | SCRUM | Jira
 ```
@@ -53,6 +82,8 @@ Open to: Freelances
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40"/>
 </div>
 
+</details>
+
 <p align="center">★ ─────────────────────────────────── ★</p>
 
 <div align="center">
@@ -61,20 +92,28 @@ Open to: Freelances
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Barbiero-Ana&hide_border=true&background=0D1117&ring=4CAF50&fire=81C784&currStreakLabel=4CAF50" />
+  <img src="https://streak-stats.demolab.com/?user=Barbiero-Ana&hide_border=true&background=0D1117&ring=4CAF50&fire=81C784&currStreakLabel=4CAF50" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Barbiero-Ana&theme=onedark&no-frame=true&margin-w=10&row=1" />
 </div>
 
 <p align="center">★ ─────────────────────────────────── ★</p>
 
+<div align="center">
+
 ## 🌈 Let's Connect!
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/anabarbiero/">
-    <img src="https://img.shields.io/badge/LinkedIn-Ana%20Barbiero-2E7D32?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:anacarolinabarbiero@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-anacarolinabarbiero%40gmail.com-43A047?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+<a href="https://www.linkedin.com/in/anabarbiero/">
+  <img src="https://img.shields.io/badge/LinkedIn-Ana%20Barbiero-2E7D32?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:anacarolinabarbiero@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-anacarolinabarbiero%40gmail.com-43A047?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-<p align="center">✦ obrigada por passar por aqui ✦</p>
+<br><br>
+
+✦ obrigada por passar por aqui ✦
+
+</div>
