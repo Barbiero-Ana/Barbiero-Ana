@@ -80,7 +80,7 @@ Google UX Design Professional Certificate (v2)
 <br>
 
 <!-- CONSTELLATION_COUNT_START -->
-`★ waiting for the first star...`
+`★ 1 visitor in this constellation`
 <!-- CONSTELLATION_COUNT_END -->
 
 <br>
