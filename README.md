@@ -23,11 +23,11 @@ Coffee: Always ☕
 ## 🧰 Tech Stack
 ```yaml
 
-✨ Languages:      C# | TypeScript | JavaScript | React
-📊 Data:           Python | Pandas
-🗃️ Database:       SQL
-🎨 Design & UX:    Figma | Canva | UX
-🛠️ Tools:          Git
+★ Languages:      C# | TypeScript | JavaScript | React
+★ Data:           Python | Pandas
+★ Database:       SQL
+★ Design & UX:    Figma | Canva | UX
+★ Tools:          Git
 ★ Methodology:     SCRUM
 
 ```
